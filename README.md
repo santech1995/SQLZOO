@@ -1,1 +1,2 @@
 # SQLZOO
+# Practice SQL queries.
